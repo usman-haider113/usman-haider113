@@ -1,280 +1,364 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Usman Haider
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=USMAN%20HAIDER&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-### 🚀 Frontend Engineer | Vue.js Specialist | Open Source Enthusiast
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Software+Engineer+%7C+AI-Augmented+Developer;Vue.js+%2B+React+%2B+Real-Time+Systems;Building+the+Future+with+AI+%2B+Code;4%2B+Years+of+Innovation" alt="Typing SVG" />
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanhaider113)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmanhaider113)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uthmancheema113@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║  🚀 ARCHITECT OF INTELLIGENT SYSTEMS & REAL-TIME EXPERIENCES     ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=usmanhaider113&color=green&style=flat-square)
+<p>
+  <a href="https://www.linkedin.com/in/usmanhaider113"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:uthmancheema113@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+923023280667"><img src="https://img.shields.io/badge/Phone-+92_302_3280667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/usman-haider113"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=usman-haider113&color=00D9FF&style=for-the-badge)
 
 </div>
 
 ---
 
-## 💫 About Me
+<div align="center">
 
-Frontend Engineer with **4 years of hands-on experience** building scalable web applications and SaaS platforms. I specialize in **Vue.js** and modern JavaScript, with a strong focus on creating performant, user-centric applications that solve real-world problems.
+## 🌟 ABOUT ME
 
-I thrive in collaborative environments where I can contribute to meaningful projects, mentor junior developers, and continuously push the boundaries of what's possible with modern web technologies.
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+const usman = {
+  role: "Software Engineer",
+  location: "Lahore, Pakistan 🇵🇰",
+  experience: "4+ years",
+
+  expertise: [
+    "Real-time Systems Architecture",
+    "AI-Augmented Development",
+    "High-Performance Web Apps",
+    "SaaS Platform Development"
+  ],
+
+  philosophy: "Code smarter, not harder",
+
+  superpower: "Leveraging AI to 10x productivity",
+
+  currentMission: "Building intelligent systems that feel alive"
+};
+```
+
+I'm a **software engineer** who doesn't just write code—I **orchestrate intelligence**. I build real-time collaboration platforms, integrate cutting-edge AI into every workflow, and create interfaces that feel magical.
+
+💡 **My Edge:** I use **Claude AI**, **ChatGPT**, **Cursor**, and **GitHub Copilot** as cognitive amplifiers—not to replace thinking, but to build faster, architect better, and solve harder problems.
+
+---
+
+<div align="center">
+
+## 🛠️ TECH STACK
+
+</div>
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nuxt,nodejs,html,css,tailwind,sass" />
+
+### 🗄️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis,firebase" />
+
+### 🤖 AI Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,webpack,vite" />
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-8A4FFF?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 PROJECTS & EXPERIENCE
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<div align="center">
+
+### 💬 HapPhi SaaS Platform
+**Crewlogix Technologies**
+*Nov 2023 - Present*
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+</div>
+
+**🎯 What I Built:**
+- Real-time chat with Socket.IO
+- Video conferencing (Amazon Chime)
+- Interactive dashboards (ApexCharts)
+- **40% faster** load times
+- **95+ Lighthouse** scores
+
+**💡 Tech:** Vue.js 3, TypeScript, Socket.IO, Pinia, Vite
+
+</td>
+<td width="33%" valign="top">
+<div align="center">
+
+### 🏥 Astronaut EHR
+**OHS Technologies**
+*Apr 2022 - Nov 2023*
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+</div>
+
+**🎯 What I Built:**
+- HIPAA-compliant workflows
+- Appointment management system
+- SOAP notes automation
+- Role-based access control
+- Patient data architecture
+
+**💡 Tech:** Vue.js 2, Vuex, Vuetify, Node.js, PostgreSQL
+
+</td>
+<td width="33%" valign="top">
+<div align="center">
+
+### 🚗 Omoda & Jaecoo
+**Automotive Showcase Platform**
+*Featured Project*
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+</div>
+
+**🎯 What I Built:**
+- Interactive car model showcase
+- Detailed specifications viewer
+- 3D-like visual presentations
+- Responsive design system
+- Performance-optimized galleries
+
+**💡 Tech:** Vue.js, Nuxt.js, CSS Animations, API Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💎 MY SUPERPOWERS
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+<br><strong>🤖 AI-First Development</strong>
+<br>Using Claude, ChatGPT & Cursor to code 10x faster
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+<br><strong>⚡ Performance Obsession</strong>
+<br>Shaving milliseconds, optimizing every render
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+<br><strong>🔄 Real-Time Systems</strong>
+<br>WebSockets, live sync, distributed architecture
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+<br><strong>🎨 UX Excellence</strong>
+<br>Interfaces that feel intuitive and magical
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB STATS
+
+<img src="https://github-profile-trophy.vercel.app/?username=usman-haider113&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=usman-haider113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6E42&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usman-haider113&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6E42&currStreakLabel=00D9FF" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-haider113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usman-haider113&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6E42&point=00D9FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT FOCUS
+
+</div>
 
 ```javascript
-const usman = {
-  location: "Lahore, Pakistan 🇵🇰",
-  role: "Frontend Engineer",
-  experience: "4 years",
-  languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
-  frameworks: ["Vue.js 2 & 3", "Nuxt.js", "Node.js", "Express.js"],
-  currentFocus: "Building real-time SaaS platforms with Vue 3 & TypeScript",
-  expertise: ["Component Architecture", "State Management", "API Integration", "Performance Optimization"],
-  passionate_about: ["Clean Code", "User Experience", "Team Collaboration", "Mentoring"]
+const currentMissions = {
+  learning: [
+    "🧠 Advanced AI prompt engineering",
+    "⚡ Nuxt 3 with SSR optimization",
+    "🎨 3D web experiences with Three.js",
+    "🔥 Micro-frontend architectures"
+  ],
+
+  building: [
+    "🤖 AI-powered development workflows",
+    "💬 Real-time collaboration platforms",
+    "🚀 High-performance SaaS applications"
+  ],
+
+  exploring: [
+    "🌐 LLM integration patterns",
+    "⚡ Edge computing possibilities",
+    "🎭 Next-gen UI/UX paradigms"
+  ],
+
+  mindset: "Ship fast. Iterate faster. Never stop learning. 🚀"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🌈 WHY I'M DIFFERENT
 
-### UI Libraries & Frameworks
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### State Management & Tools
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
-![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-### Cloud & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Software Engineer @ Crewlogix Technologies
-**Nov 2023 - Present** | *Lahore, Pakistan*
-
-Leading frontend development for **HapPhi SaaS Platform** - a comprehensive business management solution
-
-**🎯 Key Achievements & Contributions:**
-
-- 💬 **Real-time Chat System**
-  - Built from scratch using **Socket.IO** for instant team communication
-  - Implemented message history, typing indicators, and real-time notifications
-  - Optimized for handling multiple concurrent chat sessions
-
-- 📹 **Video Conferencing Integration**
-  - Integrated **Amazon Chime SDK** for seamless video calls
-  - Created intuitive UI for meeting scheduling and joining
-  - Enhanced user experience with features like screen sharing and participant management
-
-- 📊 **Data Visualization Dashboards**
-  - Developed interactive dashboards using **ApexCharts**
-  - Transformed complex business data into actionable insights
-  - Implemented real-time data updates for live metrics
-
-- ⚡ **Performance Optimization**
-  - Reduced initial load time by **40%** through code splitting and lazy loading
-  - Implemented component-level code splitting for optimal performance
-  - Achieved **95+ Lighthouse scores** for production builds
-
-- 👨‍🏫 **Mentorship & Leadership**
-  - Mentor junior developers on Vue.js best practices and modern JavaScript
-  - Conduct code reviews to maintain high code quality standards
-  - Created internal documentation and coding guidelines
-
-- 🤝 **Cross-functional Collaboration**
-  - Work closely with product managers to translate requirements into technical solutions
-  - Collaborate with designers to implement pixel-perfect, responsive UIs
-  - Partner with backend team to design efficient API contracts
-
-**Tech Stack:** Vue.js 3, TypeScript, Pinia, Socket.IO, Amazon Chime SDK, ApexCharts, Vuetify, Vite
-
----
-
-### 🏥 Associate Software Engineer @ OHS Technologies
-**Apr 2022 - Nov 2023** | *Remote*
-
-Developed **Astronaut EHR** - A comprehensive Electronic Health Record system for healthcare professionals
-
-**🎯 Key Achievements & Contributions:**
-
-- 🏥 **Healthcare-Focused UI Development**
-  - Built complex medical data interfaces using **Vue.js** and **Vuetify**
-  - Created intuitive tree-view components for hierarchical patient data organization
-  - Designed workflows tailored to healthcare professionals' needs
-
-- 📅 **Appointment Management System**
-  - Integrated **FullCalendar** with custom features for medical appointments
-  - Implemented conflict detection and automatic reminder notifications
-  - Built recurring appointment scheduling with exception handling
-
-- 📝 **SOAP Notes Implementation**
-  - Developed medical documentation feature following **SOAP** (Subjective, Objective, Assessment, Plan) standards
-  - Created templates for different medical specialties
-  - Ensured HIPAA compliance and data security
-
-- 🔄 **State Management Architecture**
-  - Architected **Vuex** store for consistent data flow across application
-  - Implemented role-based access control for different user types (doctors, nurses, admins)
-  - Designed efficient caching strategies for improved performance
-
-- 🤝 **Healthcare Professional Collaboration**
-  - Conducted requirement gathering sessions with doctors and medical staff
-  - Incorporated feedback from healthcare professionals into feature design
-  - Ensured software met real-world medical practice needs
-
-- 🐛 **Quality Assurance**
-  - Maintained high reliability standards critical for healthcare software
-  - Implemented comprehensive testing strategies
-  - Fixed critical bugs with priority on data accuracy and system stability
-
-**Tech Stack:** Vue.js 2, Vuex, Vuetify, FullCalendar, Node.js, Express.js, PostgreSQL
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Information Technology**
-*Khwaja Fareed University of Engineering & Information Technology*
-**2017 - 2021** | GPA: **3.12/4.0**
-
-**Relevant Coursework:**
-- Object Oriented Programming
-- Database Systems
-- Data Structures & Algorithms
-- Software Engineering
-- Web Technologies
-
----
-
-## 🌟 What I Bring to the Table
+</div>
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚡ Performance Focus</h3>
-      <p>Consistently deliver applications with optimized load times, smooth interactions, and excellent user experience</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎯 Code Quality</h3>
-      <p>Maintain high standards through testing, code reviews, and adherence to industry best practices</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤝 Team Collaboration</h3>
-      <p>Thrive in cross-functional teams, working seamlessly with designers, backend developers, and stakeholders</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚 Continuous Learning</h3>
-      <p>Stay updated with Vue.js ecosystem evolution, modern JavaScript patterns, and emerging industry trends</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>👨‍🏫 Mentoring</h3>
-      <p>Guide junior developers on frontend development practices and help establish team coding standards</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>💡 Problem Solving</h3>
-      <p>Analytical approach to complex challenges with focus on scalable, maintainable solutions</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 **AI-Augmented Workflow**
+
+Most developers are just starting to explore AI tools. I've **fully integrated** them:
+
+- 💡 **Claude AI** for architecture planning
+- 🤖 **ChatGPT** for problem-solving & research
+- ⚡ **Cursor** as my primary IDE
+- 🔥 **GitHub Copilot** for code completion
+
+**Result:** I code 10x faster without sacrificing quality.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 **Real-World Impact**
+
+I don't just build features—I deliver **measurable results**:
+
+- ⚡ 40% faster load times on production apps
+- 🏆 95+ Lighthouse scores consistently
+- 💬 Real-time systems handling 1000+ concurrent users
+- 🏥 HIPAA-compliant healthcare platforms
+- 🚗 High-performance automotive showcases
+
+**Philosophy:** Technology should amplify human potential.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanhaider113&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1a1b27&title_color=4FC08D&icon_color=4FC08D&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usmanhaider113&theme=vue-dark&hide_border=true&background=1a1b27&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanhaider113&layout=compact&theme=vue-dark&hide_border=true&bg_color=1a1b27&title_color=4FC08D&text_color=ffffff)
+## 🎨 FUN FACTS
 
 </div>
 
----
+<img align="right" alt="Developer" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-## 🎯 Currently Exploring
+```yaml
+primary_weapon: "Cursor IDE (AI-powered)"
 
-- 🔥 Advanced Vue 3 Composition API patterns
-- ⚡ Nuxt 3 with Server-Side Rendering
-- 🎨 Advanced animation techniques with GSAP
-- 🧪 E2E testing with Playwright
-- 🏗️ Micro-frontend architectures
-- 📱 Progressive Web Apps (PWA) development
+favorite_stack: "Vue 3 + TypeScript + Pinia + Socket.IO"
 
----
+productivity_secret: "Claude + ChatGPT for instant problem-solving"
 
-## 💼 Open for Opportunities
+coffee_consumption: "☕☕☕☕ (while true loop)"
 
-I'm actively looking to join a **forward-thinking team** where I can:
+debug_method: "console.log('why tho? 🤔')"
 
-<div align="center">
+code_style: "Clean, scalable, future-proof"
 
-| 🚀 | 📈 | 🤝 | 💡 |
-|:--:|:--:|:--:|:--:|
-| **Work on challenging projects** | **Grow with talented developers** | **Collaborate in healthy environment** | **Share knowledge and learn** |
+current_vibe: "Building tomorrow, today 🚀"
 
-</div>
+life_motto: "Code smarter, not harder"
+```
 
----
-
-## 📫 Let's Connect!
-
-I'm always excited to discuss new opportunities, collaborate on interesting projects, or chat about Vue.js and frontend development!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanhaider113)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmanhaider113)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uthmancheema113@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+92_302_3280667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923023280667)
-
-</div>
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
+## 🌟 LET'S CONNECT & BUILD SOMETHING AMAZING
 
-### 🌟 **If you find my work interesting, feel free to ⭐ star my repositories!**
+```ascii
+╔════════════════════════════════════════════════════════════════════╗
+║  💡 Open to innovative projects and collaborations                ║
+║  🚀 Always excited to discuss AI, Vue.js, and real-time systems   ║
+║  ⚡ Let's push the boundaries of what's possible with code + AI   ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+### 📬 Reach Out
+
+<a href="https://www.linkedin.com/in/usmanhaider113">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:uthmancheema113@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+923023280667">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+### ⭐ If this profile inspires you, star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" />
 
 </div>
